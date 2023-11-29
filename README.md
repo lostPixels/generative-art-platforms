@@ -12,6 +12,7 @@ A community organized list of all NFT-based generative art platforms. Please sub
 | Feral File | 80% / 20% | 7.5% / 0% | yes | IPFS | no | [link](https://www.feralfile.com) | ??? | Has "exhibitions" which are curated by invited individuals |
 | Verse | 62.5% / 37.5% (show) 80% / 20% (online) | ??? | yes | IPFS + AB Engine | yes | [link](https://www.verse.works) | - | - |
 | Alba | 87.5% / 12.5% | artist set / 1/3rd | no | on-chain | ??? | [link](https://www.alba.art/) | ??? | ??? | - |
+| 256ART| 92.5% / 7.5% | 5% / 2.5% | no | in-chain | no | [link](https://256art.com) | [link](https://twitter.com/Mint256ART) | open, in-chain, on Ethereum, fully automated testing (no need for testnet). Quick look at artist [portal here](https://twitter.com/ShaikTibout/status/1674481929884938241) |
 | Tonic | ??? | ??? | yes | IPFS | yes | [link](https://www.tonic.xyz) | ??? | - |
 | Unit London | 70% / 30% | ??? | yes | IPFS | no | [link](https://www.unitlondon.com) | ??? | ??? | ??? | - |
 | HODLERS | ??? | ??? | yes | AB Engine | ??? | [link](https://www.hodlers.one/) | ??? | ??? | - |
